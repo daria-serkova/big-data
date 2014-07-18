@@ -1,2 +1,2 @@
-big-data
+BD technologies training
 ========
